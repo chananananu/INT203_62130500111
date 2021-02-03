@@ -4,7 +4,7 @@ const app = {
             firstname: 'Chananan',
             lastname: 'Likitsarawit',
             city: 'BKK TH',
-            bussiness: 'KMUTT',
+            university: 'KMUTT',
             faculty: 'School of Infomation Technology',
             major: 'Information Technology',
             id: '62130500111',

@@ -4,11 +4,11 @@ const app = {
             firstname: 'Chananan',
             lastname: 'Likitsarawit',
             city: 'BKK TH',
-            follower: '10.4k',
-            project: '1234',
-            rank: '4321',
+            bussiness: 'KMUTT',
+            faculty: 'School of Infomation Technology',
+            major: 'Information Technology',
+            id: '62130500111',
             image: './images/image.jpg',
-            cover: './images/cover.png',
         }
     }
 }
